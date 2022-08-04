@@ -1,0 +1,480 @@
+.nav{
+    width: 1440px;
+    height: 94px;
+    margin: 0 auto;
+    position: relative;
+}
+.logo{
+    position: absolute;
+    top: 33px;
+}
+.list-item{
+    display: flex;
+    margin-top: 20px;
+    padding: 1rem;
+    justify-content: center;
+}
+.nav-panel{
+    list-style-type: none;
+    margin-right: 2rem;
+    font-size: 15px;
+    font-family: 'Roboto';
+    font-size: 20px;
+    line-height: 24px;
+    color: #141414;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.b1{
+    display: flex;
+    margin-left: 1205px;
+    margin-right: auto;
+    border: #0099FF 1px solid;
+    border-radius: 5px;
+    background-color: #0099FF;
+    color: white;
+    position: absolute;
+    width: 165px;
+    height: 49px;
+    font-size: 16px;
+    justify-content: center;
+    align-items: center;
+    top: 25px;
+    font-family: 'Hind Madurai';
+    }
+    .log{
+position: absolute;
+right: 250px;
+top: 19px;
+font-size: 20px;
+    }
+    .section{
+        width: 100%;
+    }
+    .title{
+        position: absolute;
+        font-size: 'Roboto';
+        font-size: 120px;
+        line-height: 110px;
+        text-align: center;
+        color: rgba(14, 16, 22, 0.95);
+        font-size: 120px;
+        width: 827px;
+        left: 330px;
+    }
+    .paragraph{
+        position: absolute;
+width: 500px;
+left: 500px;
+top: 460px;
+font-family: 'Roboto';
+font-size: 26px;
+line-height: 36px;
+text-align: center;
+color: #35393F;
+    }
+    input{
+        width: 300px;
+        height: 45px;
+        position: absolute;
+        left: 500px;
+        top: 650px;
+        background: #FFFFFF;
+        border-radius: 5px;
+        border-color: #0099FF;
+    }
+    .b2{
+        display: flex;
+        margin-left: 792px;
+        margin-right: auto;
+        border: #0099FF 1px solid;
+        border-radius: 5px;
+        background-color: #0099FF;
+        color: white;
+        position: absolute;
+        width: 165px;
+        height: 50.8px;
+        font-size: 16px;
+        justify-content: center;
+        align-items: center;
+        top: 650px;
+        font-family: 'Hind Madurai';
+        }
+        .p2{
+            color: #B2B2B2;
+            position: absolute;
+            top: 750px;
+            left: 570px;
+        }
+        .list-item1{
+            display: flex;
+            position: relative;
+            top: 700px;
+            left: 160px;
+        }
+        .logo2{
+            list-style-type: none;
+        }
+        .title1{
+position: absolute;
+height: 56px;
+left: 536px;
+right: 28.6%;
+top: 980px;
+font-family: 'Roboto';
+font-size: 36px;
+line-height: 56px;
+color: #000000;
+}
+.frame{
+    position: absolute;
+width: 860px;
+height: 515.89px;
+left: 290px;
+top: 1100px;
+}
+.p3{
+position: absolute;
+height: 36px;
+left: 140px;
+top: 1660px;
+font-family: 'Roboto';
+font-size: 30px;
+line-height: 36px;
+color: #0C9F64;
+}
+.title2{
+    position: absolute;
+    left: 140px;
+    top: 1700px;
+    width: 392px;
+    font-family: 'Roboto';
+font-size: 56px;
+line-height: 64px;
+letter-spacing: 1.5px;
+color: black;
+}
+.title3{
+    position: absolute;
+    top: 1940px;
+    left: 140px;
+    width: 443px;
+font-family: 'Roboto';
+color: black;
+opacity: .7;
+}
+.frame1{
+    position: absolute;
+    top: 1700px;
+    left: 755px;
+}
+.frame2{
+    position: absolute;
+    top: 2350px;
+    left: 140px;
+}
+.p4{
+    position: absolute;
+height: 36px;
+left: 897px;
+top: 2315px;
+font-family: 'Roboto';
+font-size: 30px;
+line-height: 36px;
+color: #FEC104;
+}
+.title4{
+    position: absolute;
+height: 192px;
+left: 897px;
+top: 2350px;
+font-family: 'Roboto';
+font-size: 57px;
+line-height: 64px;
+letter-spacing: 1.5px;
+color: black;
+width: 420px;
+}
+.p5{
+    position: absolute;
+height: 90px;
+left: 897px;
+top: 2600px;
+width: 443px;
+font-size: 28px;
+}
+.section3{
+    position: relative;
+height: 1107px;
+left: 100px;
+width: 1240px;
+top: 2650px;
+background: #202E78;
+border-radius: 20px;
+}
+.rec9{
+    position: absolute;
+width: 80px;
+height: 80px;
+left:580px;
+top: 70px;
+}
+.title5{
+    position: absolute;
+    width: 376px;
+left: 441px;
+top: 170px;
+font-family: 'Roboto';
+font-size: 56px;
+line-height: 64px;
+text-align: center;
+letter-spacing: 1.5px;
+color: #FFFFFF;
+}
+.p6{
+    position: absolute;
+width: 719px;
+left: 261px;
+top: 263px;
+font-family: 'Roboto';
+font-size: 22px;
+line-height: 31px;
+text-align: center;
+color: #FFFFFF;
+}
+.button3{
+    position: absolute;
+width: 213px;
+height: 54px;
+left: 514px;
+top: 393px;
+font-family: 'Roboto';
+font-size: 22px;
+line-height: 31px;
+text-align: center;
+color: #FFFFFF;
+background-color:#202E78 ;
+border-color: #FFFFFF;
+border-radius: 5px;
+}
+.rec10{
+    position: absolute;
+height: 520px;
+left: 40px;
+top: 487px;
+border-radius: 5px;
+}
+.rec11{
+    position: absolute;
+    height: 520px;
+    left: 620px;
+    top: 487px;
+}
+.comment{
+    position: absolute;
+    top: 590px;
+    left: 660px;
+    font-family: 'Roboto';
+font-size: 30px;
+line-height: 36px;
+color: #FFFFFF;
+width: 470px;
+}
+.namee{
+    position: absolute;
+height: 31px;
+left: 660px;
+top: 755px;
+font-family: 'Roboto';
+font-size: 22px;
+line-height: 31px;
+color: #FFFFFF;
+}
+.any{
+    position: absolute;
+    top: 787px;
+    left: 660px;
+    font-family: 'Roboto';
+font-size: 22px;
+line-height: 31px;
+color: #FFFFFF;
+
+}
+.section4{
+    position: absolute;
+    width: 1240px;
+height: 974px;
+left: 100px;
+top: 4060px;
+background: #181818;
+border-radius: 20px;
+}
+.new{
+    position: absolute;
+width: 498.1px;
+height: 64px;
+left: 413px;
+top: 116px;
+font-family: 'Roboto';
+font-size: 56px;
+line-height: 64px;
+text-align: center;
+letter-spacing: 1.5px;
+color: #FFFFFF;
+}
+.parag{
+    position:absolute;
+    top: 300px;
+    left: 460px;
+    width: 400px;
+    height: 90px;
+    font-family: 'Roboto';
+font-size: 22px;
+line-height: 31px;
+text-align: center;
+color: #F4F3F3;
+}
+.frame3{
+    position: absolute;
+height: 465px;
+left: 100px;
+top: 4520px;
+}
+.logoo{
+    position: absolute;
+    top: 5141px;
+    left: 332px;
+}
+.logoo1{
+    position: absolute;
+    top: 5141px;
+    left: 950px;
+}
+.p8{
+    position: absolute;
+    top: 5120px;
+    left: 348px;
+    font-family: 'Roboto';
+    font-size: 82px;
+    line-height: 115px;
+    text-align: center;
+    color: rgba(14, 16, 22, 0.95);
+}
+.star{
+    position: absolute;
+    top: 5328px;
+    left: 268px;
+}
+.smile{
+    position: absolute;
+    top: 5331px;
+    left: 1000px;
+}
+.percent{
+   position: absolute;
+   top: 5118px;
+   left: 926px;
+   font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 82px;
+line-height: 115px; 
+}
+.p9{
+    position: absolute;
+width: 254px;
+height: 28px;
+left: 280px;
+top: 5400px;
+font-family: 'Roboto';
+font-size: 20px;
+line-height: 28px;
+color: black;
+text-align: center;
+}
+.p10{
+    position: absolute;
+width: 254px;
+height: 28px;
+left: 920px;
+top: 5400px;
+font-family: 'Roboto';
+font-size: 20px;
+line-height: 28px;
+color: black;
+text-align: center;
+}
+.section6{
+    position: absolute;
+height: 601px;
+width: 1240px;
+left: 100px;
+top: 5589px;
+background-color: #0099FF;
+border-radius: 10px;
+}
+.dog{
+    position: absolute;
+    top: 60px;
+    left: 520px;
+}
+.title6{
+    position: absolute;
+width: 540px;
+height: 64px;
+left: 350px;
+top: 213.52px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 57px;
+line-height: 64px;
+text-align: center;
+letter-spacing: 1.5px;
+color: #FFFFFF;
+}
+.button4{
+    border: #0E1016 1px solid;
+    border-radius: 5px;
+    background-color: #0E1016;
+    color: white;
+    position: absolute;
+    width: 165px;
+    height: 49px;
+    font-size: 16px;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 153px;
+    height: 51px;
+    left: 544px;
+    top: 426px;
+    font-family: 'Hind Madurai';
+    }
+    .thing{
+        position: absolute;
+width: 171px;
+height: 24px;
+left: 439px;
+top: 508px;
+font-family: 'Roboto';
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+color: #FFFFFF;
+    }
+    .thing1{
+        position: absolute;
+width: 170px;
+height: 24px;
+left: 651px;
+top: 508px;
+font-family: 'Roboto';
+font-size: 17px;
+line-height: 24px;
+text-align: center;
+color: #FFFFFF;
+}
+
